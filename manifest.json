@@ -1,7 +1,7 @@
 {
-  "name": "話すだけメモ v2",
+  "name": "話すだけメモ",
   "short_name": "話すだけメモ",
-  "description": "ブラウザ完結型の録音＋リアルタイム文字起こしメモアプリ",
+  "description": "ブラウザ完結型の録音・リアルタイム文字起こし・議事録作成アプリ",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
