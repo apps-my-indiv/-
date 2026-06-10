@@ -1,4 +1,4 @@
-const CACHE_NAME = "hanasudake-memo-cache-v2";
+const CACHE_NAME = "hanasudake-memo-cache-v3";
 
 const CACHE_FILES = [
   "./",
