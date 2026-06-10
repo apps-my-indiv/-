@@ -1,0 +1,25 @@
+{
+  "name": "話すだけメモ v2",
+  "short_name": "話すだけメモ",
+  "description": "ブラウザ完結型の録音＋リアルタイム文字起こしメモアプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%232563eb'/%3E%3Cpath d='M96 118c17.7 0 32-14.3 32-32V58c0-17.7-14.3-32-32-32S64 40.3 64 58v28c0 17.7 14.3 32 32 32Z' fill='white'/%3E%3Cpath d='M48 84a8 8 0 0 1 16 0c0 17.7 14.3 32 32 32s32-14.3 32-32a8 8 0 0 1 16 0c0 23.8-17.3 43.6-40 47.4V152h20a8 8 0 0 1 0 16H68a8 8 0 0 1 0-16h20v-20.6C65.3 127.6 48 107.8 48 84Z' fill='%23dbeafe'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%232563eb'/%3E%3Cpath d='M256 314.7c47.1 0 85.3-38.2 85.3-85.3v-74.7c0-47.1-38.2-85.3-85.3-85.3s-85.3 38.2-85.3 85.3v74.7c0 47.1 38.2 85.3 85.3 85.3Z' fill='white'/%3E%3Cpath d='M128 224a21.3 21.3 0 0 1 42.7 0c0 47.1 38.2 85.3 85.3 85.3s85.3-38.2 85.3-85.3a21.3 21.3 0 0 1 42.7 0c0 63.5-46.2 116.4-106.7 126.4v54.9h53.4a21.3 21.3 0 0 1 0 42.7H181.3a21.3 21.3 0 0 1 0-42.7h53.4v-54.9C174.2 340.4 128 287.5 128 224Z' fill='%23dbeafe'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
